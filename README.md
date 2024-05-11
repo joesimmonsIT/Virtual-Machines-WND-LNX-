@@ -181,7 +181,8 @@ Select Virtual Machines from the search results. <br /> <br />
 <img src="https://i.imgur.com/v5bbZ2n.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select the + Create button. <br /> <br />
+Select Azure virtual machine from the drop down menu. <br /> <br />
 </p>
 <br />
 
