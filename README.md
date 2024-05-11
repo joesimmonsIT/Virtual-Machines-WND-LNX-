@@ -28,7 +28,8 @@ This tutorial outlines the creation and confirmation of Virtual Machines for Win
 <img src="https://i.imgur.com/7R4f1BV.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a new internet browser and go to: Portal.Azure.com. <br /> <br />
+Log into your account if you are not already logged in.
 </p>
 <br />
 
