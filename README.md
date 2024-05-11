@@ -211,7 +211,7 @@ For the image select the desired image, for this tutortial we will be using "Ubu
 </p>
 <p>
 Size: Select "Standard 2 vcpus". <br /> <br />
-Authentication Type: Select Password
+Authentication Type: Select Password <br /> <br />
 Username: labuser. <br /> <br />
 Password: Create a password (minimum 12 characters including special characters) you can remember or easily write down to retrieve easily. <br /> <br />
 Confirm Password: Repeat the same password you previous entered in the previous step. <br /> <br />
