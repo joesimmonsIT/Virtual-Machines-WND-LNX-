@@ -54,7 +54,12 @@ Select the "Create" button in the middle of the page.
 <img src="https://i.imgur.com/SG9hg76.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the Subscription select the approriate subscription if you have more than one Microsoft Azure subscription. <br /> <br />
+If you only have one subscription skip this step and proceed to the next step. <br /> <br />
+For the Resource Group select the desired name, for this tutorial we will be using "RGLab02". <br /> <br />
+Virtual Machine Name: VM1. <br /> <br />
+For the Region select the desired region, in this tutorial we will be using "(US) East US 2". <br /> <br />
+Select Review + create. <br /> <br /> 
 </p>
 <br />
 
