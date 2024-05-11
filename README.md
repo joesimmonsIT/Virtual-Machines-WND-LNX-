@@ -210,7 +210,10 @@ For the image select the desired image, for this tutortial we will be using "Ubu
 <img src="https://i.imgur.com/y3NR7R0.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Size: Select "Standard 2 vcpus". <br /> <br />
+Username: labuser. <br /> <br />
+Password: Create a password (minimum 12 characters including special characters) you can remember or easily write down to retrieve easily. <br /> <br />
+Confirm Password: Repeat the same password you previous entered in the previous step. <br /> <br />
 </p>
 <br />
 
