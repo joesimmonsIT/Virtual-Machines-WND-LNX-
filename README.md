@@ -192,7 +192,7 @@ Select Azure virtual machine from the drop down menu. <br /> <br />
 For the Subscription select the approriate subscription if you have more than one Microsoft Azure subscription. <br /> <br />
 If you only have one subscription skip this step and proceed to the next step. <br /> <br />
 For the Resource Group select the desired name, for this tutorial we will be using "RGLab02". <br /> <br />
-Virtual Machine Name: VM1. <br /> <br />
+Virtual Machine Name: VM2. <br /> <br />
 For the Region select the desired region, in this tutorial we will be using "(US) East US 2". <br /> <br />
 For the Zone select the desired zone, in this tutorial we will be using Zone 1. <br /> <br />  
 </p>
