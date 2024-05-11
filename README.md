@@ -109,7 +109,7 @@ If you only have one subscription skip this step and proceed to the next step. <
 For the Resource Group select the desired name, for this tutorial we will be using "RGLab02". <br /> <br />
 Virtual Machine Name: VM1. <br /> <br />
 For the Region select the desired region, in this tutorial we will be using "(US) East US 2". <br /> <br />
-Select Review + create. <br /> <br />   
+For the Zone select the desired zone, in this tutorial we will be using Zone 1. <br /> <br />   
 </p>
 <br />
 
