@@ -46,7 +46,7 @@ In the search box type "Resource group" and select "Resource groups".
 <img src="https://i.imgur.com/mldlnqP.png"/>
 </p>
 <p>
-Select the "create" button in the middle of the page.
+Select the "Create" button in the middle of the page.
 </p>
 <br />
 
