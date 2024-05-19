@@ -38,7 +38,7 @@ Log into your account if you are not already logged in.
 <img src="https://i.imgur.com/SN2IgER.png"/>
 </p>
 <p>
-In the search box type "Resource group" and select "Resource groups".
+In the search box type "Resource group" and select "Resource groups" from the search results.
 </p>
 <br />
 
