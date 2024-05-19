@@ -256,7 +256,7 @@ The creation of the virtual machine is completed.
 <img src="https://i.imgur.com/8IvMJLM.png"/>
 </p>
 <p>
-Go to URL: "Portal.Azure.com" <br /> <br />
+Go to URL: "Portal.Azure.com". <br /> <br />
 Select the "Virtual Machines" icon. <br /> <br />
 You should see the Windows and Linux (Ubuntu) Virtual Machines we previously created. <br /> <br />
 Congratulations you have completed this tutorial successfully! <br /> <br />
