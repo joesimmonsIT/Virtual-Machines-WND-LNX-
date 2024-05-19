@@ -94,8 +94,8 @@ Select "Virtual Machines" from the search results. <br /> <br />
 <img src="https://i.imgur.com/v5bbZ2n.png"/>
 </p>
 <p>
-Select the + Create button. <br /> <br />
-Select Azure virtual machine from the drop down menu. <br /> <br />
+Select the "+ Create" button. <br /> <br />
+Select "Azure virtual machine" from the drop down menu. <br /> <br />
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Select Azure virtual machine from the drop down menu. <br /> <br />
 <img src="https://i.imgur.com/SG9hg76.png"/>
 </p>
 <p>
-For the Subscription select the approriate subscription if you have more than one Microsoft Azure subscription. <br /> <br />
+For the Subscription select the appropriate subscription if you have more than one Microsoft Azure subscription. <br /> <br />
 If you only have one subscription skip this step and proceed to the next step. <br /> <br />
 For the Resource Group select the desired name, for this tutorial we will be using "RGLab02". <br /> <br />
 Virtual Machine Name: VM1. <br /> <br />
