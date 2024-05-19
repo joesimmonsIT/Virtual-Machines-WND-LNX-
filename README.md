@@ -57,7 +57,7 @@ Select the "Create" button in the middle of the page.
 For the subscription select the appropriate subscription, if you have more than one Microsoft Azure subscription. <br /> <br />
 If you only have one subscription skip this step and proceed to the next step. <br /> <br />
 For the Resource Group select the desired name, in this tutorial we will be using "RGLab02". <br /> <br />
-For the Region, select the desired region, in this tutorial we will be using "(US) East US 2". <br /> <br />
+For the Region select the desired region, in this tutorial we will be using "(US) East US 2". <br /> <br />
 Select Review + Create to continue with creating the Resource Group. <br /> <br />
 </p>
 <br />
