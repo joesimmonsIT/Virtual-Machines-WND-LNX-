@@ -181,7 +181,7 @@ Select "Virtual Machines" from the search results. <br /> <br />
 </p>
 <p>
 Select the "+ Create" button. <br /> <br />
-Select Azure virtual machine from the drop down menu. <br /> <br />
+Select "Azure virtual machine" from the drop down menu. <br /> <br />
 </p>
 <br />
 
