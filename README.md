@@ -125,7 +125,7 @@ For the Image select the desired image, for this tutorial we will be using "Wind
 </p>
 <p>
 Size: Select "Standard 2 vcpus". <br /> <br />
-Username: labuser. <br /> <br />
+Username: "labuser". <br /> <br />
 Password: Create a password (minimum 12 characters including special characters) you can remember or easily write down to retrieve easily. <br /> <br />
 Confirm Password: Repeat the same password you previous entered in the previous step. <br /> <br />
 </p>
