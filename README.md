@@ -86,7 +86,7 @@ We will be taken to the Resource Group Home Page where we will see our newly cre
 <p>
 Go to the URL and type: Portal.Azure.com. <br /> <br />
 In the search bar type "Virtual Machines". <br /> <br />
-Select Virtual Machines from the search results. <br /> <br />
+Select "Virtual Machines" from the search results. <br /> <br />
 </p>
 <br />
 
